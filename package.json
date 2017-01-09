@@ -1,0 +1,38 @@
+{
+  "name": "scroll-to-top",
+  "title": "jQuery Scroll to Top Control Script",
+  "description": "jQuery Scroll to Top Control script- (c) Dynamic Drive DHTML code library: http://www.dynamicdrive.com.",
+  "version": "1.1.0",
+  "homepage": "http://www.dynamicdrive.com/",
+  "license": "CC-BY-NC-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zekiunal/scroll-to-top.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zekiunal/scroll-to-top/issues"
+  },
+  "licenses": [
+    {
+      "type": "CC-BY-NC-1.0",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "files": [
+    "dist/scroll-to-top.js",
+    "dist/scroll-to-top.min.js"
+  ],
+  "main": "dist/scroll-to-top.js",
+  "dependencies": {
+    "jquery": "^1.12.2"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-uglify": "*"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-plugin"
+  ]
+}
