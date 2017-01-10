@@ -1,0 +1,23 @@
+{
+  "name": "jquery-scroll-to-top",
+  "homepage": "http://www.dynamicdrive.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zekiunal/scroll-to-top.git"
+  },
+  "description": "jQuery Scroll to Top Control script- (c) Dynamic Drive DHTML code library: http://www.dynamicdrive.com.",
+  "main": "dist/scroll-to-top.js",
+  "keywords": [
+    "jquery",
+    "jquery-plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^1.12.2"
+  }
+}
